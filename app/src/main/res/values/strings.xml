@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">华容道</string>
+    <string name="exit">回到首页</string>
+    <string name="back">回退</string>
+    <string name="kill"> 退出游戏</string>
+    <string name="winMessage">Congratulations! You win!</string>
+    <string name="newGame">重新开始</string>
+    <string name="beginGame">开始游戏</string>
+    <string name="choose">选择关卡</string>
+    <string name="helper">游戏介绍</string>
+    <string name="introduce">
+            -  “诸葛亮智算华容，关云长义释曹操”，是世人皆知的一个故事，《三国演义》中的重点篇章。
+        \n  -  小说写赤壁战前，诸葛亮算定曹操必败走华容，且夜观天象，曹操不当身亡，考虑到曹操与关羽有恩，于是派关云长把守华容道，留个人情与关羽做。小说又写曹操果然由乌林向华容道败退，并在途中三次大笑诸葛亮、周瑜智谋不足，未在险要处暗设伏兵。
+        \n  -  然而，一笑笑出赵子龙，多亏徐晃、张郃二人双敌赵云，才使曹操得以逃脱；
+二笑笑出张翼德，又是张辽、徐晃二将抵挡张飞，使曹操再次脱险；
+三笑非同小可，笑出了关云长，且又在有一夫当关之险的华容狭路上，加之曹军几经打击，此时已无力再战，无奈，曹操只得亲自哀求关羽放行，关羽念旧日恩情，义释曹操，使曹操得以回到江陵。
+
+        \n  -  后关羽为孙权所杀，人头交由曹操，曹操为其塑木制身体。
+    </string>
+    <string name="descripe">a pictur about the @string/beginGame</string>
+    <string name="history">历史记录</string>
+    <string name="clear">清空记录</string>
+</resources>
